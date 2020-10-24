@@ -5,6 +5,10 @@ export const presindentsData = {
       text:
         "",
     },
+    media: {
+      url: "https://upload.wikimedia.org/wikipedia/commons/4/49/Dominican_Republic_flag.jpg",
+      title: "Lars Christopher Nøttaasen from Stavanger, Norway, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+    }
   },
   eras: [
     {
@@ -534,25 +538,6 @@ export const presindentsData = {
       },
       text: {
         headline: "Pedro Guillermo",
-        text:"",
-      },
-    },
-    {
-      start_date: {
-        year: "1865",
-        month: "12",
-        day: "08",
-      },
-      end_date: {
-        year: "1866",
-        month: "05",
-        day: "29",
-      },
-      background: {
-        opacity: "50",
-      },
-      text: {
-        headline: "Buenaventura Báez",
         text:"",
       },
     },

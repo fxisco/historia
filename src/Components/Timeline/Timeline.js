@@ -6,7 +6,10 @@ import { presindentsData } from '../../data/presidents-data';
 
 const options = {
   height: "100%",
-  initial_zoom: 4
+  initial_zoom: 10,
+  timenav_position: "top",
+  timenav_height_percentage: 40,
+  hash_bookmark: true
 }
 
 const loadTL = (callback) => {

@@ -15,7 +15,7 @@ function App() {
             <div className="row">
               <div className="col s12">
                 <a href="#" className="brand-container">
-                  <img src={logo} className="App-logo" alt="logo" />
+                  <img title="See File history below for details., Public domain, via Wikimedia Commons" src={logo} className="App-logo" alt="logo" />
                   <span>Presidentes de la República Dominicana</span>
                 </a>
               </div>

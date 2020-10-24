@@ -9,7 +9,8 @@ const options = {
   initial_zoom: 10,
   timenav_position: "top",
   timenav_height_percentage: 40,
-  hash_bookmark: true
+  hash_bookmark: true,
+  language: "es"
 }
 
 const loadTL = (callback) => {

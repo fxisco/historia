@@ -5,8 +5,8 @@ import './Timeline.css';
 import { presindentsData } from '../../data/presidents-data';
 
 const options = {
-  language: 'es',
   height: "100%",
+  initial_zoom: 4
 }
 
 const loadTL = (callback) => {
@@ -55,12 +55,8 @@ export default class Timeline extends React.Component {
   render() {
     const { loaded } = this.state;
     return (
-      <div className="row">
-        <div className="col s12 no-padding">
-        <div className="time-container">
-          {loaded && <TimelineContent />}
-        </div>
-        </div>
+      <div className="time-container">
+        {loaded && <TimelineContent />}
       </div>
     )
   }

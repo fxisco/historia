@@ -1,351 +1,1756 @@
 export const presindentsData = {
   title: {
     text: {
-      headline: "Eras Test",
+      headline: "Presidentes dominicanos",
       text:
-        "Events in the 7th century from https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages",
+        "",
     },
   },
   eras: [
     {
       start_date: {
-        year: "650",
+        year: "1844",
+        month: "02",
+        day: "27",
       },
       end_date: {
-        year: "700",
+        year: "1844",
+        month: "11",
+        day: "14",
       },
       text: {
-        headline: "Era Test 650-700",
+        headline: "Junta Central Gubernativa",
       },
     },
     {
       start_date: {
-        year: "600",
+        year: "1844",
+        month: "11",
+        day: "14",
       },
       end_date: {
-        year: "650",
+        year: "1861",
+        month: "03",
+        day: "24",
       },
       text: {
-        headline: "Era Test 600-650",
+        headline: "Primera República",
       },
     },
     {
       start_date: {
-        year: "700",
+        year: "1861",
+        month: "03",
+        day: "18",
       },
       end_date: {
-        year: "720",
+        year: "1865",
+        month: "07",
+        day: "15",
       },
       text: {
-        headline: "Era Test 700-720",
+        headline: "Ocupación española de la República Dominicana",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1865",
+        month: "07",
+        day: "15",
+      },
+      text: {
+        headline: "Guerra de la Restauración",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "01",
+        day: "24",
+      },
+      end_date: {
+        year: "1916",
+        month: "05",
+        day: "07",
+      },
+      text: {
+        headline: "Segunda República",
+      },
+    },
+    {
+      start_date: {
+        year: "1916",
+        month: "05",
+        day: "13",
+      },
+      end_date: {
+        year: "1924",
+        month: "09",
+        day: "27",
+      },
+      text: {
+        headline: "Primera ocupación estadounidense",
+      },
+    },
+    {
+      start_date: {
+        year: "1924",
+        month: "07",
+        day: "12",
+      },
+      end_date: {
+        year: "1966",
+        month: "07",
+        day: "01",
+      },
+      text: {
+        headline: "Tercera República",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "04",
+        day: "28",
+      },
+      end_date: {
+        year: "1965",
+        month: "04",
+        day: "30",
+      },
+      text: {
+        headline: "Ningún jefe de estado",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "04",
+        day: "30",
+      },
+      end_date: {
+        year: "1965",
+        month: "09",
+        day: "03",
+      },
+      text: {
+        headline: "Segunda ocupación estadounidense",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "08",
+        day: "31",
+      },
+      end_date: {
+        year: "1965",
+        month: "09",
+        day: "02",
+      },
+      text: {
+        headline: "Ningún jefe de estado",
+      },
+    },
+    {
+      start_date: {
+        year: "1966",
+        month: "07",
+        day: "01",
+      },
+      end_date: {
+        year: (new Date().getFullYear()).toString(),
+        month: (new Date().getMonth() + 1).toString(),
+        day: (new Date().getDate()).toString(),
+      },
+      text: {
+        headline: "Cuarta República",
       },
     },
   ],
   events: [
     {
       start_date: {
-        year: "602",
+        year: "1844",
+        month: "02",
+        day: "27",
       },
       end_date: {
-        year: "629",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Roman-Persian_Wars",
+        year: "1844",
+        month: "03",
+        day: "01",
       },
       background: {
         opacity: "50",
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/a/a2/HumiliationValerianusHolbein.jpg",
       },
       text: {
-        headline: "Last great Roman-Persian War.",
+        headline: "Francisco del Rosario Sánchez",
         text:
-          "Long conflict leaves both empires exhausted and unable to cope with the newly united Arab armies under Islam in the 630s",
+          "",
       },
     },
     {
       start_date: {
-        year: "604",
+        year: "1844",
+        month: "03",
+        day: "01",
       },
       end_date: {
-        year: "609",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+        year: "1844",
+        month: "06",
+        day: "09",
       },
       background: {
         opacity: "50",
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sui_Wendi_Tang.jpg",
       },
       text: {
-        headline: "Grand Canal in China is fully completed",
+        headline: "Tomás Bobadilla y Briones",
         text:
-          "Its main role throughout its history was the transport of grain to the capital.",
+          "",
       },
     },
-
     {
       start_date: {
-        year: "622",
-        month: "08",
+        year: "1844",
+        month: "06",
         day: "09",
       },
       end_date: {
-        year: "622",
-        month: "08",
-        day: "23",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Hijra_(Islam)",
-      },
-      text: {
-        headline: "Muhammad Migrates from Mecca to Medina",
-        text:
-          "Event will have designated first year of the Islamic Calendar, as Anno Hegirae.",
-      },
-    },
-    {
-      start_date: {
-        year: "626",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(626)",
+        year: "1844",
+        month: "07",
+        day: "12",
       },
       background: {
         opacity: "50",
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Moldovita_murals_2010_16.jpg/1024px-Moldovita_murals_2010_16.jpg",
       },
       text: {
-        headline:
-          "Joint Persian-Avar-Slav Siege of Constantinople Constantinople saved",
-        text: "Avar power broken and Persians henceforth on the defensive",
+        headline: "Francisco del Rosario Sánchez",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "627",
-        month: "12",
+        year: "1844",
+        month: "07",
         day: "12",
       },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Battle_of_Nineveh_(627)",
+      end_date: {
+        year: "1844",
+        month: "11",
+        day: "14",
       },
       background: {
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Piero_della_Francesca_021.jpg/1024px-Piero_della_Francesca_021.jpg",
+        opacity: "50",
       },
       text: {
-        headline: "Battle of Nineveh",
-        text: "The Byzantines, under Heraclius, crush the Persians.",
+        headline: "Pedro Santana",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "632",
-        month: "06",
-        day: "08",
-      },
-      text: {
-        headline: "Death of Muhammed",
-        text: "By this point, all of Arabia is Muslim.",
-      },
-    },
-    {
-      start_date: {
-        year: "632",
-        month: "06",
-        day: "08",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Abu_Bakr",
-      },
-      text: {
-        headline: "Accession of Abu Bakr as first Caliph",
-        text:
-          "Though the period of his caliphate was not long, it included successful invasions of the two most powerful empires of the time.",
-      },
-    },
-    {
-      start_date: {
-        year: "633",
+        year: "1844",
+        month: "11",
+        day: "14",
       },
       end_date: {
-        year: "634",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Battle_of_Heavenfield",
-      },
-      text: {
-        headline: "Battle of Heavenfield",
-        text: "Northumbrian army under Oswald defeat Welsh army.",
-      },
-    },
-    {
-      start_date: {
-        year: "641",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Battle_of_Nihaw%C4%81nd",
+        year: "1848",
+        month: "08",
+        day: "04",
       },
       background: {
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Castle_Nahavend_by_Eug%C3%A8ne_Flandin.jpg/1024px-Castle_Nahavend_by_Eug%C3%A8ne_Flandin.jpg",
+        opacity: "50",
       },
       text: {
-        headline: "Battle of Nehawand",
-        text: "Muslims conquer Persia.",
+        headline: "Pedro Santana",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "643",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Alexandria",
-      },
-      text: {
-        headline: "Arab Army led by Omar Ibn Al-'Aas takes Alexandria",
-        text: "",
-      },
-    },
-    {
-      start_date: {
-        year: "645",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Soga_clan",
-      },
-      text: {
-        headline: "In Japan, the Soga clan falls",
-        text:
-          "This initiates a period of imitation of Chinese culture, The Nara period begins a year later.",
-      },
-    },
-    {
-      start_date: {
-        year: "650",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Balkans",
-      },
-      text: {
-        headline: "Slav occupation of Balkans complete.",
-        text: "",
-      },
-    },
-    {
-      start_date: {
-        year: "663",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Synod_of_Whitby",
-      },
-      text: {
-        headline: "Synod of Whitby",
-        text:
-          "Roman Christianity triumphs over Celtic Christianity in England.",
-      },
-    },
-    {
-      start_date: {
-        year: "668",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Three_Kingdoms_of_Korea",
-      },
-      text: {
-        headline: "Ends of the Three Kingdoms period in Korea",
-        text:
-          "Established a Unified Silla which led to the North South States Period 30 years later.",
-      },
-    },
-    {
-      start_date: {
-        year: "674",
+        year: "1848",
+        month: "09",
+        day: "08",
       },
       end_date: {
-        year: "678",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(674)",
-      },
-      background: {
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/1024px-Greekfire-madridskylitzes1.jpg",
-      },
-      text: {
-        headline: "First Arab siege of Constantinople",
-        text:
-          "First time Islamic armies defeated, forestalling Islamic conquest of Europe.",
-      },
-    },
-    {
-      start_date: {
-        year: "681",
-      },
-      media: {
-        url: "https://en.wikipedia.org/wiki/First_Bulgarian_Empire",
+        year: "1849",
+        month: "05",
+        day: "29",
       },
       background: {
-        url:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Krum1.jpg/782px-Krum1.jpg",
+        opacity: "50",
       },
       text: {
-        headline: "Establishment of the Bulgarian Empire",
-        text:
-          "A country with great influence in the European history in the Middle Ages.",
+        headline: "Manuel Jimenes González",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "685",
+        year: "1849",
+        month: "09",
+        day: "24",
       },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Battle_of_Dun_Nechtain",
+      end_date: {
+        year: "1853",
+        month: "02",
+        day: "15",
+      },
+      background: {
+        opacity: "50",
       },
       text: {
-        headline: "Battle of Dun Nechtain",
-        text: "Picts defeat Northumbrians, whose dominance ends.",
+        headline: "Buenaventura Báez",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "687",
+        year: "1853",
+        month: "02",
+        day: "15",
       },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Battle_of_Tertry",
+      end_date: {
+        year: "1856",
+        month: "05",
+        day: "26",
+      },
+      background: {
+        opacity: "50",
       },
       text: {
-        headline: "Battle of Tertry",
-        text:
-          "Established Pepin of Herstal as mayor over the entire realms of Neustria and Austrasia, which further dwindled Merovingian power.",
+        headline: "Pedro Santana",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "698",
+        year: "1856",
+        month: "05",
+        day: "26",
       },
-      media: {
-        url: "https://en.wikipedia.org/wiki/Carthage",
+      end_date: {
+        year: "1856",
+        month: "10",
+        day: "08",
+      },
+      background: {
+        opacity: "50",
       },
       text: {
-        headline: "Arab army takes Carthage",
-        text: "End of Byzantine rule in North Africa",
+        headline: "Manuel de Regla Mota",
+        text:"",
       },
     },
     {
       start_date: {
-        year: "698",
+        year: "1856",
+        month: "10",
+        day: "08",
       },
-      media: {
-        url: "https://en.wikipedia.org/wiki/North_South_States_Period",
+      end_date: {
+        year: "1858",
+        month: "06",
+        day: "12",
+      },
+      background: {
+        opacity: "50",
       },
       text: {
-        headline: "North South States Period begins in Korea",
-        text:
-          "Silla and Balhae coexisted in the south and north of the peninsula, respectively, until 926",
+        headline: "Buenaventura Báez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1857",
+        month: "07",
+        day: "07",
+      },
+      end_date: {
+        year: "1858",
+        month: "08",
+        day: "31",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José Desiderio Valverde",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1858",
+        month: "06",
+        day: "13",
+      },
+      end_date: {
+        year: "1861",
+        month: "03",
+        day: "24",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Pedro Santana",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1863",
+        month: "09",
+        day: "14",
+      },
+      end_date: {
+        year: "1864",
+        month: "10",
+        day: "10",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José Antonio Salcedo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1864",
+        month: "10",
+        day: "10",
+      },
+      end_date: {
+        year: "1865",
+        month: "01",
+        day: "24",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José Antonio Salcedo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1864",
+        month: "10",
+        day: "10",
+      },
+      end_date: {
+        year: "1865",
+        month: "01",
+        day: "24",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Gaspar Polanco",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "01",
+        day: "24",
+      },
+      end_date: {
+        year: "1865",
+        month: "03",
+        day: "24",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Benigno Filomeno de Rojas",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "03",
+        day: "25",
+      },
+      end_date: {
+        year: "1865",
+        month: "08",
+        day: "13",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Pedro Antonio Pimentel",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "08",
+        day: "04",
+      },
+      end_date: {
+        year: "1865",
+        month: "11",
+        day: "15",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José María Cabral",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "11",
+        day: "15",
+      },
+      end_date: {
+        year: "1865",
+        month: "12",
+        day: "08",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Pedro Guillermo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "12",
+        day: "08",
+      },
+      end_date: {
+        year: "1866",
+        month: "05",
+        day: "29",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Buenaventura Báez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1865",
+        month: "12",
+        day: "08",
+      },
+      end_date: {
+        year: "1866",
+        month: "05",
+        day: "29",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Buenaventura Báez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1866",
+        month: "08",
+        day: "22",
+      },
+      end_date: {
+        year: "1868",
+        month: "01",
+        day: "03",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José María Cabral",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1868",
+        month: "05",
+        day: "02",
+      },
+      end_date: {
+        year: "1874",
+        month: "01",
+        day: "02",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Buenaventura Báez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1874",
+        month: "01",
+        day: "02",
+      },
+      end_date: {
+        year: "1876",
+        month: "02",
+        day: "23",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ignacio María González Santín",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1876",
+        month: "03",
+        day: "26",
+      },
+      end_date: {
+        year: "1876",
+        month: "10",
+        day: "05",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ulises Francisco Espaillat",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1876",
+        month: "11",
+        day: "11",
+      },
+      end_date: {
+        year: "1876",
+        month: "12",
+        day: "09",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ignacio María González Santín",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1876",
+        month: "12",
+        day: "10",
+      },
+      end_date: {
+        year: "1876",
+        month: "12",
+        day: "26",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Marcos Antonio Cabral",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1876",
+        month: "12",
+        day: "26",
+      },
+      end_date: {
+        year: "1878",
+        month: "03",
+        day: "02",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Buenaventura Báez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1878",
+        month: "03",
+        day: "02",
+      },
+      end_date: {
+        year: "1878",
+        month: "05",
+        day: "03",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ignacio María González Santín",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1878",
+        month: "03",
+        day: "05",
+      },
+      end_date: {
+        year: "1878",
+        month: "07",
+        day: "06",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Cesáreo Guillermo y Bastardo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1878",
+        month: "07",
+        day: "06",
+      },
+      end_date: {
+        year: "1878",
+        month: "09",
+        day: "02",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ignacio María González Santín",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1878",
+        month: "09",
+        day: "07",
+      },
+      end_date: {
+        year: "1878",
+        month: "09",
+        day: "29",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Jacinto de Castro",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1879",
+        month: "02",
+        day: "27",
+      },
+      end_date: {
+        year: "1879",
+        month: "12",
+        day: "06",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Cesáreo Guillermo y Bastardo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1879",
+        month: "10",
+        day: "07",
+      },
+      end_date: {
+        year: "1880",
+        month: "09",
+        day: "01",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Gregorio Luperón",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1880",
+        month: "09",
+        day: "01",
+      },
+      end_date: {
+        year: "1882",
+        month: "09",
+        day: "01",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Fernando Arturo de Meriño",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1882",
+        month: "09",
+        day: "01",
+      },
+      end_date: {
+        year: "1884",
+        month: "09",
+        day: "01",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ulises Heureaux",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1884",
+        month: "09",
+        day: "01",
+      },
+      end_date: {
+        year: "1885",
+        month: "05",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Francisco Gregorio Billini",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1885",
+        month: "05",
+        day: "16",
+      },
+      end_date: {
+        year: "1887",
+        month: "01",
+        day: "06",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Alejandro Woss y Gil",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1887",
+        month: "01",
+        day: "06",
+      },
+      end_date: {
+        year: "1899",
+        month: "07",
+        day: "26",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Alejandro Woss y Gil",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1899",
+        month: "07",
+        day: "26",
+      },
+      end_date: {
+        year: "1899",
+        month: "08",
+        day: "30",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Wenceslao Figuereo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1899",
+        month: "08",
+        day: "15",
+      },
+      end_date: {
+        year: "1899",
+        month: "11",
+        day: "15",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Horacio Vásquez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1899",
+        month: "11",
+        day: "15",
+      },
+      end_date: {
+        year: "1902",
+        month: "05",
+        day: "02",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Juan Isidro Jiménez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1902",
+        month: "03",
+        day: "26",
+      },
+      end_date: {
+        year: "1903",
+        month: "03",
+        day: "23",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Horacio Vásquez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1903",
+        month: "03",
+        day: "23",
+      },
+      end_date: {
+        year: "1903",
+        month: "11",
+        day: "24",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Alejandro Woss y Gil",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1903",
+        month: "11",
+        day: "24",
+      },
+      end_date: {
+        year: "1905",
+        month: "12",
+        day: "24",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Carlos Felipe Morales Languasco",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1905",
+        month: "12",
+        day: "29",
+      },
+      end_date: {
+        year: "1911",
+        month: "11",
+        day: "19",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ramón Cáceres",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1911",
+        month: "12",
+        day: "05",
+      },
+      end_date: {
+        year: "1912",
+        month: "11",
+        day: "30",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Eladio Victoria",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1912",
+        month: "12",
+        day: "01",
+      },
+      end_date: {
+        year: "1913",
+        month: "03",
+        day: "13",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Adolfo Alejandro Nouel",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1913",
+        month: "03",
+        day: "14",
+      },
+      end_date: {
+        year: "1914",
+        month: "08",
+        day: "27",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José Bordas Valdez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1914",
+        month: "08",
+        day: "28",
+      },
+      end_date: {
+        year: "1914",
+        month: "12",
+        day: "05",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Ramón Báez Machado",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1914",
+        month: "12",
+        day: "06",
+      },
+      end_date: {
+        year: "1916",
+        month: "05",
+        day: "07",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Juan Isidro Jiménez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1916",
+        month: "07",
+        day: "31",
+      },
+      end_date: {
+        year: "1916",
+        month: "11",
+        day: "29",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Francisco Henríquez y Carvajal",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1922",
+        month: "10",
+        day: "21",
+      },
+      end_date: {
+        year: "1924",
+        month: "07",
+        day: "12",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Juan Bautista Vicini Burgos",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1922",
+        month: "07",
+        day: "12",
+      },
+      end_date: {
+        year: "1924",
+        month: "07",
+        day: "12",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Horacio Vásquez",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1930",
+        month: "02",
+        day: "28",
+      },
+      end_date: {
+        year: "1930",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Rafael Estrella Ureña",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1938",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1940",
+        month: "03",
+        day: "07",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Jacinto Peynado",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1940",
+        month: "03",
+        day: "07",
+      },
+      end_date: {
+        year: "1942",
+        month: "05",
+        day: "18",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Manuel de Jesús Troncoso",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1942",
+        month: "05",
+        day: "18",
+      },
+      end_date: {
+        year: "1952",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Rafael Trujillo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1952",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1960",
+        month: "08",
+        day: "03",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Héctor Trujillo",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1960",
+        month: "08",
+        day: "03",
+      },
+      end_date: {
+        year: "1962",
+        month: "01",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Joaquín Balaguer",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1960",
+        month: "08",
+        day: "03",
+      },
+      end_date: {
+        year: "1962",
+        month: "01",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Joaquín Balaguer",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1962",
+        month: "01",
+        day: "19",
+      },
+      end_date: {
+        year: "1963",
+        month: "02",
+        day: "27",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Rafael Bonnelly",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1963",
+        month: "02",
+        day: "27",
+      },
+      end_date: {
+        year: "1963",
+        month: "09",
+        day: "25",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Juan Bosch",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1963",
+        month: "09",
+        day: "25",
+      },
+      end_date: {
+        year: "1963",
+        month: "09",
+        day: "26",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Víctor Elby Viñas Román",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1963",
+        month: "09",
+        day: "26",
+      },
+      end_date: {
+        year: "1963",
+        month: "12",
+        day: "23",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Emilio de los Santos",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1963",
+        month: "12",
+        day: "28",
+      },
+      end_date: {
+        year: "1965",
+        month: "04",
+        day: "25",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Donald Reid Cabral",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "04",
+        day: "25",
+      },
+      end_date: {
+        year: "1965",
+        month: "04",
+        day: "27",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José Molina Ureña",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "04",
+        day: "25",
+      },
+      end_date: {
+        year: "1965",
+        month: "04",
+        day: "27",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "José Molina Ureña",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "05",
+        day: "04",
+      },
+      end_date: {
+        year: "1965",
+        month: "09",
+        day: "03",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Francisco Caamaño Deñó",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "05",
+        day: "01",
+      },
+      end_date: {
+        year: "1965",
+        month: "05",
+        day: "07",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Pedro Bartolomé Benoit",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "05",
+        day: "07",
+      },
+      end_date: {
+        year: "1965",
+        month: "08",
+        day: "30",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Antonio Imbert Barrera",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1965",
+        month: "09",
+        day: "03",
+      },
+      end_date: {
+        year: "1966",
+        month: "07",
+        day: "01",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Héctor García Godoy",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1966",
+        month: "07",
+        day: "01",
+      },
+      end_date: {
+        year: "1978",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Joaquín Balaguer",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1966",
+        month: "07",
+        day: "01",
+      },
+      end_date: {
+        year: "1978",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Joaquín Balaguer",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1978",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1982",
+        month: "07",
+        day: "03",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Antonio Guzmán",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1982",
+        month: "07",
+        day: "04",
+      },
+      end_date: {
+        year: "1982",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Jacobo Majluta",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1982",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1986",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Salvador Jorge Blanco",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1986",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1996",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Joaquín Balaguer",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "1996",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "2000",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Leonel Fernández",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "2000",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "2004",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Leonel Fernández",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "2004",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "2012",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Leonel Fernández",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "2012",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "2020",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Danilo Medina",
+        text:"",
+      },
+    },
+    {
+      start_date: {
+        year: "2020",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: (new Date().getFullYear()).toString(),
+        month: (new Date().getMonth() + 1).toString(),
+        day: (new Date().getDate()).toString(),
+      },
+      background: {
+        opacity: "50",
+      },
+      text: {
+        headline: "Luis Abinader",
+        text:"",
       },
     },
   ],

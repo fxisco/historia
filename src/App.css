@@ -8,7 +8,3 @@
   display: flex;
   font-size: 1.7rem;
 }
-
-.time-container {
-  height: calc(100vh - 64px);
-}

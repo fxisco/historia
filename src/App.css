@@ -8,3 +8,19 @@
   display: flex;
   font-size: 1.7rem;
 }
+
+.page-footer {
+  padding-top: 0;
+}
+
+.plain-link {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
+.page-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

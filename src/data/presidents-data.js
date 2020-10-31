@@ -1478,7 +1478,11 @@ export const presindentsData = {
       },
       text: {
         headline: "Horacio Vásquez",
-        text:"",
+        text:"Se retiró con la ocupación estadounidense de 1916, hasta 1924 donde volvió a ocupar la presidencia de la República, luego de la realización de elecciones y con el beneplácito de las tropas de ocupación, que abandonaron la isla. Fue elegido presidente para el período 1924-1928 con el 69.8% de los votos,2​ pero la prórroga forzosa de su mandato hasta 1930 y su eventual reelección, originaron una revuelta de la Guardia Nacional que, encabezada por Rafael Trujillo, lo derrocó en 1930.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Horacio_Vasquez.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1494,10 +1498,39 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Rafael Estrella Ureña",
-        text:"",
+        text:"Estrella conspiró junto a Rafael Leónidas Trujillo, que en ese entonces era el Jefe de las Fuerzas Armadas, a la caída del gobierno de Horacio Vásquez; debido a esto, Vásquez se ve obliga a renunciar, lo mismo sucedió con su vicepresidente, el Dr. José Dolores Alfonseca. Estrella, antes de dar el golpe a Vásquez, logra que este lo designe como Ministro de Interior y Policía, ya que de esta forma, sustituiría a Vásquez como presidente, debido a que también había renunciado el vicepresidente y por ende, el cargo le tocaba a este ministro, en conformidad a la Constitución reformada de 1929. De esta forma llega Estrella Ureña a la presidencia del país, aunque quien controlaba el poder era Trujillo. ",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Rafael_Estrella_Urena_Great_Grandfather.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
+      },
+    },
+    {
+      start_date: {
+        year: "1930",
+        month: "08",
+        day: "16",
+      },
+      end_date: {
+        year: "1938",
+        month: "08",
+        day: "16",
+      },
+      background: {
+        opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+      },
+      text: {
+        headline: "Rafael Trujillo",
+        text:"El 3 de septiembre de 1930, a tres semanas de que Trujillo asumiera el poder, el destructivo huracán San Zenón golpeó Santo Domingo y dejó más de 3000 muertos. Con el dinero aportado por la Cruz Roja Americana, se reconstruyó la ciudad. En junio de ese mismo año, la oposición se organizó para derrocar a Trujillo, pero todo fue en vano y los promotores terminaron en el exilio. En febrero de 1934 se celebró una convención para elegir a Trujillo nuevamente candidato a presidente por el partido dominicano. El 16 de mayo de ese año y sin ninguna oposición política se celebraron las elecciones nacionales con Trujillo como único candidato.Desde el 28 de septiembre al 8 de octubre de 1937, Trujillo decidió el genocidio de miles de haitianos que vivían en la zona de la frontera dominicana con Haití en un evento conocido como la Masacre del Perejil o El Corte, donde tropas del ejército dominicano mataron, según estimados, entre 15,000 y 20,000 personas.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/8/83/Rafael_Trujillo_1952.jpg",
+        title: "McOleo, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
       },
     },
     {
@@ -1513,10 +1546,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Jacinto Peynado",
-        text:"",
+        text:"Asumió la presidencia el 16 de agosto de 1938, aunque en gran medida Trujillo siguió controlando el país.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/3/30/Jacinto_Bienvenido_peynado.gif",
+        title: "Ssx07, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
       },
     },
     {
@@ -1532,10 +1570,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Manuel de Jesús Troncoso",
-        text:"",
+        text:"Accedió nominalmente a la presidencia (1940-1942) tras la muerte del presidente títere Jacinto Peynado, pasando en 1943 a presidir el Senado.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Manuel_de_Jes%C3%BAs_Troncoso_de_la_Concha.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1551,10 +1594,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Rafael Trujillo",
-        text:"",
+        text:"En 1944, al cumplirse los 100 años de la fundación de la nación dominicana, Trujillo celebró un evento llamado «Las fiestas del centenario». El 4 de agosto de 1946 un fuerte terremoto azotó la región noreste del país.En mayo de 1947 se celebraron nuevas elecciones, matizadas esta vez con fuertes críticas internacionales sobre el carácter dictatorial del gobierno, lo que obligó a Trujillo a montar una ficción democrática. En dichas elecciones participaron tres partidos políticos, el Partido Nacional Laborista, el Partido Nacional democrático y el Partido Dominicano, quienes llevaban de candidatos a Rafael A. Espaillat, Francisco Prats Ramírez y Rafael Trujillo, respectivamente. Trujillo terminó ganando el certamen con el 90% de los votos.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Trujillo_1952.jpg",
+        title: "Official photograph published in several Dominican newspapers. August 1952. Copyright expired (D.R. copyright is life plus 50 years), Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1570,10 +1618,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Héctor Trujillo",
-        text:"",
+        text:"Según algunos periodistas de la época, las peticiones para que Rafael Trujillo se reeligiera vinieron de todas partes, principalmente de sus seguidores y hasta del Senado, de donde se llegó incluso a dictar una resolución considerando de \"alta conveniencia nacional\" la reelección presidencial. Trujillo no quiso aspirar a otro mandato presidencial, por lo que recurrió a su hermano, quien ganó las elecciones sin un voto en contra. De esta forma llega a ser presidente de la república, aunque fuese como títere de su propio hermano.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hector_Bienvenido_Trujillo_Molina_%281960%29.jpg",
+        title: "Fotograaf Onbekend / Anefo, CC BY-SA 3.0 NL <https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en>, via Wikimedia Commons"
       },
     },
     {
@@ -1589,36 +1642,22 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Joaquín Balaguer",
-        text:"",
+        text:"Cuando Trujillo fue asesinado en 1961 y a pesar de haber sido durante mucho tiempo colaborador del dictador, Balaguer tomó medidas para liberar al país del régimen con la concesión de algunas libertades civiles y suavizando la estricta censura a que Trujillo tenía sometida la prensa. La OEA se mostró satisfecha y levantó las sanciones económicas impuestas a la República Dominicana, debido al intento de asesinato que Trujillo tramó en contra del presidente venezolano Rómulo Betancourt. Sin embargo, las reformas provisionales de Balaguer fueron rechazadas por gran parte de la sociedad, ya que era presionado por los militares, por la derecha, por la izquierda, era abucheado en las calles por la ciudadanía y llamado entre otras cosas por los militares muñequito de papel.",
       },
-    },
-    {
-      start_date: {
-        year: "1960",
-        month: "08",
-        day: "03",
-      },
-      end_date: {
-        year: "1962",
-        month: "01",
-        day: "16",
-      },
-      background: {
-        opacity: "50",
-      },
-      text: {
-        headline: "Joaquín Balaguer",
-        text:"",
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joaquin_Balaguer_1977.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
       start_date: {
         year: "1962",
         month: "01",
-        day: "19",
+        day: "18",
       },
       end_date: {
         year: "1963",
@@ -1627,10 +1666,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Rafael Bonnelly",
-        text:"",
+        text:"El principal logro como presidente constitucional del Dr Bonnelly fue la organización en la República Dominicana de las primeras elecciones libres tras el fin de los 30 años de dictadura de Trujillo, en la que el Profesor Juan Bosch fue elegido. Pero, durante su breve intensa Presidencia, el Dr Bonnelly del Gobierno escribió y pasó algunos de los principios en la legislación del país, como las leyes de Bancos y Vivienda, que todavía se usan.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rafael_F.Bonnelly.jpg",
+        title: "Rbonnelly at English Wikipedia, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1646,29 +1690,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Juan Bosch",
-        text:"",
+        text:" El 29 de abril, se promulgó una nueva constitución de carácter liberal que concedía derechos desconocidos por los dominicanos. Entre otras cosas, consignó los derechos laborales y la libertad sindical, y se ocupó por sectores tradicionalmente excluidos como las mujeres embarazadas, los hijos ilegítimos, las personas sin hogar, niñez, la familia, la juventud y los agricultores, entre otros. Bosch enfrentó sectores tradicionalmente poderosos. Su actitud contra el latifundio le acarreó la animadversión del sector terrateniente. La Iglesia católica creyó que Bosch estaba tratando de secularizar el país. Los industriales recelaban de los beneficios que la nueva Constitución otorgaba a la clase obrera. Los militares, que antes disfrutaban de la libertad de hacer lo que quisieran, sintieron que Bosch los sometía. Además, el gobierno de los Estados Unidos se mostraba escéptico ante el menor indicio de la política de izquierda en el Caribe después de que Fidel Castro se declaró abiertamente comunista.",
       },
-    },
-    {
-      start_date: {
-        year: "1963",
-        month: "09",
-        day: "25",
-      },
-      end_date: {
-        year: "1963",
-        month: "09",
-        day: "26",
-      },
-      background: {
-        opacity: "50",
-      },
-      text: {
-        headline: "Víctor Elby Viñas Román",
-        text:"",
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Juan_Bosch_%281963%29.jpg",
+        title: "Hugo van Gelderen / Anefo, CC BY-SA 3.0 NL <https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en>, via Wikimedia Commons"
       },
     },
     {
@@ -1684,17 +1714,22 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Emilio de los Santos",
-        text:"",
+        text:"Antes del primer año de su toma de posesión, un golpe de Estado derrocó el 25 de septiembre de 1963 al presidente Bosch. Oficiales superiores de las Fuerzas Armadas formaron una Junta Provisional de Gobierno. Fue Presidente del Triunvirato que dirigió el país tras el derrocamiento del presidente Bosch. El gabinete del Triunvirato estuvo conformado por políticos derechistas e individuos ligados a la comunidad empresarial dominicana.En diciembre de 1963, un grupo guerrillero encabezado por Manuel Aurelio Tavárez Justo y los líderes de la Agrupación Política 14 de Junio (1J4) se sublevó en las montañas para luchar contra el Triunvirato.Cuando el Presidente del Triunvirato, Emilio de los Santos, se enteró de lo ocurrido, renunció inmediatamente a su cargo declarando que no sería cómplice del asesinato de un grupo de jovenzuelos, habiendo dado las instrucciones en el sentido de preservar su vida.",
+      },
+      media: {
+        url: "https://www.ecured.cu/images/d/d3/Emilio_de_los_Santos_Salci%C3%A9.JPG",
+        title: "Emilio de los Santos"
       },
     },
     {
       start_date: {
         year: "1963",
         month: "12",
-        day: "28",
+        day: "23",
       },
       end_date: {
         year: "1965",
@@ -1703,10 +1738,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Donald Reid Cabral",
-        text:"",
+        text:"Reid Cabral presidió el Triunvirato que gobernó la República Dominicana a raíz del derrocamiento del gobierno constitucional de Juan Bosch (1963-1965), y en esa condición ocupó la Secretaría de Relaciones Exteriores y la Secretaría de las Fuerzas Armadas.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/1/15/Donal_Reid_Cabral.png",
+        title: "Fundación Dominicana de Desarrollo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
       },
     },
     {
@@ -1722,29 +1762,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "José Molina Ureña",
-        text:"",
+        text:"(Bando Constitucionalista) Fue presidente de la Asamblea Constituyente en 1963; presidente de la Cámara de Diputados; presidente constitucional interino de la República (durante horas), como consecuencia de la guerra civil que se produjo en 1965.Molina Ureña aceptó la Presidencia del país con el estallido de la Revuelta Constitucionalista por su condición de presidente de la Asamblea Constituyente de 1963 y permaneció tres días en el Palacio intentando lograr un acuerdo que garantizara el retorno de Juan Bosch al poder. Ocupó la sede del gobierno el 25 de abril de 1965 como \"presidente provisional\" constitucionalista y, tras un proceso de negociaciones para impedir derramamientos de sangre durante la guerra civil, decidió asilarse en la embajada de Colombia, debido a la frustración ante la intervención militar norteamericana, a la inflexibilidad de los militares golpistas de San Isidro y las diferencias internas en el propio movimiento rebelde constitucionalista. Fue sustituido por el Congreso de la República, que nombró al Coronel Francisco Alberto Caamaño Deñó.",
       },
-    },
-    {
-      start_date: {
-        year: "1965",
-        month: "04",
-        day: "25",
-      },
-      end_date: {
-        year: "1965",
-        month: "04",
-        day: "27",
-      },
-      background: {
-        opacity: "50",
-      },
-      text: {
-        headline: "José Molina Ureña",
-        text:"",
+      media: {
+        url: "https://3.bp.blogspot.com/-oh1Z86acDvA/WoGtBpV_Z3I/AAAAAAAABz4/t3a03Ko85tcBX-ZAwCylTp9AM0DWe5RfgCLcBGAs/s1600/molina%2Bure%25C3%25B1a.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1760,10 +1786,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Francisco Caamaño Deñó",
-        text:"",
+        text:"(Bando Constitucionalista) A raíz de estos acontecimientos el 3 de mayo de 1965, contando Caamaño con 32 años de edad, el Congreso Nacional lo elige y designa Presidente Constitucional de la República Dominicana, tomando posesión de la presidencia el día 4 de mayo, en el Parque Independencia. El Coronel Fernández Domínguez regresa clandestinamente incorporándose a la lucha, cayendo en combate en la toma al Palacio Presidencial el 19 de mayo. Caamaño ocupó la posición de la Presidencia Constitucional hasta el 3 de septiembre de ese mismo año, cuando presenta su renuncia en un acto masivo en la Fortaleza Ozama, tras la firma del Acta de Reconciliación Dominicana (Acto Institucional). Durante su Gobierno recibe cartas y comunicaciones internacionales de felicitación y reconocimiento como Presidente de la República Dominicana y por su actitud ante la intervención militar de Estados Unidos, donde demostró ser un hombre de valor, heroísmo, patriotismo, principios inquebrantables, y decidido a defender su Patria por encima de todo.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/7/76/FranciscoAlbertoCamano.jpg",
+        title: "EverCuevas, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
       },
     },
     {
@@ -1779,10 +1810,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Pedro Bartolomé Benoit",
-        text:"",
+        text:"(Bando Lealista) Presidente provisional de la República Dominicana durante la guerra civil de 1965 después de la disolución del Triunvirato.",
+      },
+      media: {
+        url: "data:image/jpeg;base64,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",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1798,11 +1834,17 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Antonio Imbert Barrera",
-        text:"",
+        text:"(Bando Lealista) Como presidente del Gobierno de Reconstrucción Nacional participó activamente en la dirección de la \"Operación Limpieza\" contra los combatientes constitucionalistas de la zona norte de la capital. Numerosos testigos afirmaron que durante los combates las tropas del GRN cometieron crímenes tales como violaciones, fusilamientos, lanzamiento de prisioneros encadenados al río Ozama y desapariciones.",
       },
+      media: {
+        url: "https://i.ytimg.com/vi/33Zh81JtYAA/hqdefault.jpg",
+        title: "Antonio Imbert Barrera"
+      },
+
     },
     {
       start_date: {
@@ -1817,10 +1859,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Héctor García Godoy",
-        text:"",
+        text:"Durante la Revolución de Abril, en 1965, fue escogido provisionalmente como Presidente de la República, sustituyendo al Coronel Caamaño Deñó, el 3 de septiembre, y gobernó el país durante nueve meses hasta que entregó el poder al doctor Joaquín Balaguer, en 1966. Antes de marcharse organizó las elecciones nacionales de 1966.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/7/76/Garcia_godoy.jpg",
+        title: "TitanAtlas01, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
       },
     },
     {
@@ -1836,29 +1883,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Joaquín Balaguer",
-        text:"",
+        text:"Balaguer encontró una nación severamente golpeada por décadas de turbulencia, con tiempos cortos de paz, y prácticamente ignorantes de la democracia y los derechos humanos. Balaguer trató de apaciguar a los supervivientes antitrujillistas y a los de la guerra civil de 1965, pero los asesinatos políticos continuaron siendo frecuentes durante su administración. Durante este segundo mandato de gobierno (conocido popularmente en la política dominicana simplemente como los 12 años), Balaguer incentivó la construcción de escuelas, hospitales, presas, carreteras, y muchos edificios importantes. ",
       },
-    },
-    {
-      start_date: {
-        year: "1966",
-        month: "07",
-        day: "01",
-      },
-      end_date: {
-        year: "1978",
-        month: "08",
-        day: "16",
-      },
-      background: {
-        opacity: "50",
-      },
-      text: {
-        headline: "Joaquín Balaguer",
-        text:"",
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joaquin_Balaguer_1977.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1870,14 +1903,19 @@ export const presindentsData = {
       end_date: {
         year: "1982",
         month: "07",
-        day: "03",
+        day: "04",
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Antonio Guzmán",
-        text:"",
+        text:"Con el apoyo decidido de la embajada de los Estados Unidos, de los empresarios (sector que aunque beneficiario de las políticas de Balaguer había visto como insostenible su prolongación en el tiempo) y con el voto mayoritario del pueblo dominicano, Guzmán tomó posesión el 16 de agosto de 1978. De inmediato realizó cambios en el ordenamiento burocrático-militar, tomó medidas contra la corrupción que había caracterizado al gobierno anterior y se encaminó hacia un nuevo ordenamiento del estado dominicano, eliminando el fantasma de asonadas militares y de la interrupción del orden democrático. nició un proceso de \"despolitización\" de las fuerzas armadas y la Policía Nacional, las cuales habían sido convertidas por Balaguer, en instrumentos de represión, de luchas internas y de intimidación criminal y política, basadas en un apego al presidente de turno y a su partido, el Partido Reformista. La madrugada del domingo 4 de julio de 1982 se suicidó en el Palacio Nacional, faltando 43 días para terminar su mandato.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Antonio_Guzm%C3%A1n.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1893,10 +1931,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Jacobo Majluta",
-        text:"",
+        text:"Majluta, que fungía como Vicepresidente de la República, juró su cargo inmediatamente después de la muerte de Antonio Guzmán como Presidente de la República. Trabajó arduamente para que los oficiales militares que antes apoyaban a Guzmán aceptaran a Jorge Blanco.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Jacobo_Majluta_Azar.JPG",
+        title: "MitsosGreece at English Wikipedia, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
       },
     },
     {
@@ -1912,10 +1955,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Salvador Jorge Blanco",
-        text:"",
+        text:"Jorge Blanco gobernó la República Dominicana durante un período de dramáticas dificultades económicas impuestas en gran parte por el sistema internacional. Ese mismo año, por primera vez desde la guerra civil de 1965, el país experimentó tasas de crecimiento negativas. Su periodo presidencial culminó el 15 de agosto de 1986 dejando un clima hostil en la oposición.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/d/db/Salvador_Jorge_Blanco_1982.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1931,10 +1979,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Joaquín Balaguer",
-        text:"",
+        text:"El tercer gobierno de Balaguer fue mucho más liberal que el anterior. En este periodo Balaguer era mucho más tolerante a los partidos de oposición y los derechos humanos. En este período, Joaquín Balaguer mantuvo una ligera política de populismo, en lo que se refiere a la entrega de canastas, dinero y otras \"dádivas\" al pueblo dominicano con el propósito de gobernar con el apoyo del campesinado y la masa pobre, que es la mayoría. El clientelismo también se manifestó en gran medida. En 1990, con una abstención del 40%, Balaguer logra reelegirse con el 35.1% de los votos, contra el 33.9% de Juan Bosch del Partido de la Liberación Dominicana, y un Partido Revolucionario Dominicano que mantenía una crisis interna. Este proceso se caracterizó por la expresión de amplios sectores de la vida política y social, que criticaban la legitimidad de dichas elecciones, a lo que Balaguer respondió lanzando los militares a la calle y decretando un toque de queda. En 1994 Balaguer decidió optar de nuevo por la presidencia, incluso cuando ya tenía casi 90 años de edad y ciego por completo. Esta vez, su principal competidor era José Francisco Peña Gómez del Partido Revolucionario Dominicano. Esta campaña fue una de los peores de la historia dominicana. Su Partido Reformista Social Cristiano con frecuencia utilizaba la ascendencia haitiana de Peña Gómez a su favor. El dominicano históricamente tiende a desconfiar de cualquier persona con sangre haitiana. En las elecciones de 1996, Jacinto Peynado Garrigosa, terminó muy lejos de llegar a la segunda vuelta. Balaguer entonces dio su apoyo a Leonel Fernández del Partido de la Liberación Dominicana en una inusual coalición con Bosch, su enemigo político de más de 30 años.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joaquin_Balaguer_1977.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1950,10 +2003,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Leonel Fernández",
-        text:"",
+        text:"Fernández emprendió una dinámica y agresiva política exterior que rescató a la República Dominicana de su aislamiento tradicional y la colocó en el mismo centro de los procesos de integración regional, apertura de mercados y globalización. Durante su período de gobierno, se incentivó la participación del país en organizaciones políticas y económicas del hemisferio, como la Organización de los Estados Americanos OEA y la Cumbre de las Américas. Bajo su mandato se elaboró el Tratado de Libre Comercio (TLC) con los países de CARICOM y Centroamérica. Fernández no aspiró a un segundo mandato ya que constitucionalmente estaba prohibido que un presidente gobernase en periodos consecutivos, y por lo tanto, su partido eligió a su segundo hombre de confianza, Danilo Medina, como su candidato para las elecciones de 2000. Sin embargo, Medina fue derrotado por el líder del PRD, Hipólito Mejía, quien capturó el sentimiento popular de la época, aprovechando que muchos dominicanos consideraron que las reformas y el alegado crecimiento económico de Fernández no se reflejaba en su vida cotidiana.",
+      },
+      media: {
+        url: "https://uploads.concordia.net/2016/07/05183921/Leonel_Fernandez.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1969,10 +2027,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
-        headline: "Leonel Fernández",
-        text:"",
+        headline: "Hipólito Mejía",
+        text:"En su mandato Mejía apoyó muchos sectores populares como la seguridad social, ayudando a las pequeñas empresas, la agricultura, mejorar en la educación y en ayuda para la asignación de viviendas. Mejía recibió un apoyo considerable de la población durante los dos primeros años de su mandato, lo que causó que su partido a ganara las elecciones congresionales y municipales tomando prácticamente el control del Senado con 29 de los 32 senadores. El endeudamiento externo fue moderado, sin embargo ampliamente criticado a partir del 2002 cuando el país recibió 1000 millones de dólares por concepto de bonos soberanos emitidos en septiembre de 2001. Durante el mandato de Mejía, el segundo banco privado comercial más grande del país, Baninter, quebró debido a la malversación de fondos de sus propietarios y ejecutivos, y la complicidad política que hubo en el largo tiempo que duró el fraude desde el año 1995. Siendo presidente del país y con su partido político como mayoría en el congreso, se reformuló la Constitución de la República Dominicana para reintroducir la reelección presidencial con el modelo americano de dos periodos únicos.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/7/78/Hipolito_mejia_%28cropped%29.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -1988,10 +2051,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Leonel Fernández",
-        text:"",
+        text:"Al iniciar su segundo mandato presidencial tuvo que lidiar con la crisis económica heredada del gobierno anterior, fruto del rescate bancario originado por los malos manejos de algunos sectores de la banca privada y que se había estado gestando desde mediados de los años 199027​. Esto trajo consigo desplome en la economía local. Para combatir esta crisis fueron necesarias tomar medidas drásticas como la reestructuración de la tasa de cambio frente al dólar, medida que provocó la pérdida de más de 120.000 empleos en las zonas francas y un salto impresionante en la deuda interna. Esta deuda, conocida como \"déficit cuasi-fiscal\" motivó la introducción al Congreso de una ley con el objetivo de desmontarla a diez años. Leonel Fernández ha realizado amplios esfuerzos dentro de sus gobiernos a favor del desarrollo de la tecnología del país. Bajo este mandato, se fundó el Parque Cibernético de Santo Domingo, una zona franca de alta tecnología en septiembre de 2004, el cual posteriormente fracasó y fue convertido en el Instituto Tecnológico de las Américas (ITLA). Fernández asumió su nuevo mandato el 16 de agosto de 2008, en medio de una fuerte crisis económica internacional y una situación interna marcada por un incremento de la criminalidad y el narcotráfico.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/9/95/Leonel_2008.jpg",
+        title: "Ips 20, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
       },
     },
     {
@@ -2007,10 +2075,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Danilo Medina",
-        text:"",
+        text:"Danilo Medina venció a su rival político Hipólito Mejía, el 20 de mayo del 2012, luego de las más reñidas elecciones de la década, pasando así a ser el Presidente Constitucional de la República Dominicana. El 16 de agosto de 2012 con la presencia de más de 14 mandatarios y con más de 70 países representados Medina juró ante el Congreso y ante los Dominicanos como el Presidente de la República oficializando así su título de mandatario. Al asumir la Presidencia, Danilo Medina estableció que para subsanar la economía en el año 2013 era necesario aumentar la presión tributaria, un (18 %), y así poder cumplir con los compromisos del Estado, entre los cuales se encontraba asignar el 4% del PIB para la educación pre-universitaria en el presupuesto nacional para el año 2013, cumpliendo así, por primera vez en la historia, con lo establecido por ley. En su segundo mandato se produjuo el escándalo de Odebrecht, según los funcionarios judiciales estadounidenses, entre los años 2001 y 2014, Odebrecht estuvo relacionado con pagos ilícitos por valor de US$92 millones de dólares en República Dominicana, durante varios gobiernos que le habrían dado beneficios económicos y contratos por más de US$163 millones de dólares, en otros contratos de construcción de obras públicas en ese país durante gobiernos pasados.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/8/89/V_Cumbre_CELAC-_Rep%C3%BAblica_Dominicana_%2832130698470%29_%28cropped%29.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
     {
@@ -2026,10 +2099,15 @@ export const presindentsData = {
       },
       background: {
         opacity: "50",
+        url:"https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
       },
       text: {
         headline: "Luis Abinader",
-        text:"",
+        text:"En una ceremonia diferente a la realizada en ocasiones anteriores, debido a la pandemia del Covid-19, el 16 de agosto de 2020, a la 10 de la mañana, se inicio la ceremonia en la cual Luis Abinader fue juramentado como Presidente de la República Dominicana, en un acto que contó con una participación mínima del presidente saliente, Danilo Medina. Se abre una etapa en la que el Presidente de la República Dominicana, Luis Abinader, se ha comprometido a llevar adelante una serie de profundos cambios para devolverle al país la institucionalidad y poder servir a la gente.",
+      },
+      media: {
+        url: "https://upload.wikimedia.org/wikipedia/commons/9/9d/President_Abinader_2020.jpg",
+        title: "Unknown/Desconocido, Public domain, via Wikimedia Commons"
       },
     },
   ],

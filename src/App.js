@@ -34,7 +34,7 @@ function App() {
       <footer className="page-footer blue">
         <div className="footer-copyright">
           <div className="container">
-            <a className="grey-text text-lighten-4 right" href="#!">
+            <a className="grey-text text-lighten-4 right" href="https://github.com/fxisco/historia">
               Github project
             </a>
           </div>
